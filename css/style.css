@@ -1,0 +1,49 @@
+/* #header{
+   z-index: 2;
+    position: fixed;
+    width: 100%;
+}
+.wrapper{
+    border-bottom: 1px solid red;
+}
+.menu ul{
+    display: flex;
+    flex-wrap: wrap;
+    ;list-style: none;
+}
+.menu ul li{
+    padding: 15px;
+}
+#Welcome{
+    position: relative;
+    height: 600px;
+    background:  0px 0px / cover no-repeat scroll,url(http://quomodosoft.com/html/dawat/demo/img/slider/slide_3.jpg)
+}
+#Welcome::after{
+    
+    background: url(http://quomodosoft.com/html/dawat/demo/img/pattarn.png)
+}
+.welcomeMiddle{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+
+} */
+.price{
+    padding-left: 70px;
+}
+.specification span{
+    padding: 0 20px;
+}
+.today{
+    text-align: center;
+    font-size: 2em;
+    color: #CA3D26;
+    padding: 60px 0;
+    position: relative;
+    z-index: 15;
+}
+.today h2{
+    position: relative;
+}
+.today h2::before
